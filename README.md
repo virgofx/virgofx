@@ -31,9 +31,12 @@
 </div>
 
 <br >
+
 <p align="center">
+  <a href="https://1password.com" target="_blank">
+    <img src="https://1password.com/img/redesign/press/logo.c757be5591a513da9c768f8b80829318.svg" alt="1password" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.apache.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/></a>
   <a href="https://www.apple.com/" target="_blank">
@@ -106,6 +109,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://slack.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
+  <a href="https://shortcut.com" target="_blank">
+    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/30187654-653d-4cfd-9460-45a155547233.png?fit=max&w=104&fm=png&auto=format" alt="slack" width="40" height="40"/></a>
   <a href="https://www.terraform.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank">
