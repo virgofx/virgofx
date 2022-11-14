@@ -115,6 +115,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+  <a href="https://www.vanta.com" target="_blank">
+    <img src="https://asset.brandfetch.io/idfu5vUBjI/idOgcgwMLG.png?updated=1668013863504" alt="vanta" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
 </p>
