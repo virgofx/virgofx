@@ -34,9 +34,9 @@
 
 <p align="center">
   <a href="https://1password.com" target="_blank">
-    <img src="https://1password.com/img/redesign/press/logo.c757be5591a513da9c768f8b80829318.svg" alt="1password" width="40" height="40"/></a>
+    <img src="https://avatars.githubusercontent.com/u/38230737" alt="1password" width="40" height="40"/></a>
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/></a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.apache.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40"/></a>
   <a href="https://www.apple.com/" target="_blank">
@@ -47,6 +47,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40"/></a>
   <a href="https://circleci.com" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a>
+  <a href="https://www.cloudflare.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/314135" alt="cloudflare" width="40" height="40"/></a>
   <a href="https://getcomposer.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="composer" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
@@ -107,10 +109,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></a>
   <a href="https://redis.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://sentinelone.com" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/8438799" alt="sentinelone" width="40" height="40"/></a>
   <a href="https://slack.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" height="40"/></a>
   <a href="https://shortcut.com" target="_blank">
-    <img src="https://gdm-catalog-fmapi-prod.imgix.net/ProductLogo/30187654-653d-4cfd-9460-45a155547233.png?fit=max&w=104&fm=png&auto=format" alt="slack" width="40" height="40"/></a>
+    <img src="https://assets-global.website-files.com/6372338e5477e047032b37a5/64f85a9692c244ded86785ef_logo_mark.svg" alt="shortcut" width="40" height="40"/></a>
+  <a href="https://www.snowflake.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/6453780" alt="snowflake" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind css" width="40" height="40"/></a>
   <a href="https://www.terraform.io" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank">
@@ -119,4 +127,6 @@
     <img src="https://asset.brandfetch.io/idfu5vUBjI/idOgcgwMLG.png?updated=1668013863504" alt="vanta" width="40" height="40"/></a>
   <a href="https://code.visualstudio.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
+  <a href="https://zoom.us/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/29114944" alt="zoom" width="40" height="40"/></a>
 </p>
