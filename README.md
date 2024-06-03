@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/techpivot/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://github.com/virgofx"><img src="https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
-  <a href="https://www.techpivot.net"><img src="https://img.shields.io/badge/TechPivot-1dd7f0.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
+  <a href="https://www.techpivot.com"><img src="https://img.shields.io/badge/TechPivot-1dd7f0.svg?&style=for-the-badge&logo=github&logoColor=white" height=25></a>
 </p>
 
 <br >
