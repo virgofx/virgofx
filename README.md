@@ -1,10 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&section=header&color=0:d80ae3,100:10d7e3&fontColor=fff&height=200&fontAlignY=37&text=Hi%2C%20I%27m%20Mark👋)
 
-<h3 align="center">
-  I'm a DevOps Engineer working at <a href="https://shortcut.com">Shortcut</a>. I work
-  on Cloud infrastructure and focus on security, best-practices, infrastructure as code,
-  and solutions architecture.
-</h3>
+<h4 align="left" style="margin-top:0">
+  Seasoned Cloud Infrastructure Engineer and IT professional with over 20 years of expertise in
+  designing, building, and optimizing platform infrastructure for top-tier reliability, scalability,
+  cost-effectiveness, and performance. Passionate about driving technological innovation and fostering
+  a positive, mission-aligned workplace culture. Highly proficient in automation, orchestration,
+  identity management, monitoring, alerting, and evaluating modern technologies to drive efficiency,
+  productivity, and revenue growth. Strong expertise in security, governance, and IT management with
+  established history of achievements in implementing large information security programs.
+</h4>
 
 <br >
 
